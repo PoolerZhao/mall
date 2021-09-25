@@ -12,7 +12,7 @@ mall 是一个基于 golang、 gin、 gorm、 vue3、element plus 开发的商�
 | Vue-Router | 页面路由 | https://next.router.vuejs.org |
 | Axios | 网络请求库 | https://axios-http.com |
 | Vuex | 状态管理 | https://next.vuex.vuejs.org |
-| Element Plus | 前端UI组件库 | https://element-plus.gitee.io |
+| Element Plus | 前端UI组件库 | https://element-plus.org |
 
 后端技术：
 
