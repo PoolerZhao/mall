@@ -61,7 +61,7 @@ $ vue-cli-service serve
 
 **使用浏览器访问：** 
 
-以上安装、初始化、运行成功后，即可访问：http://localhost:8080/#/login
+成功启动后，即可通过浏览器访问：http://localhost:8080/#/login
 
 用户名: admin 密码: 123
 
