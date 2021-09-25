@@ -51,8 +51,6 @@ git clone https://github.com/zchengo/mall.git
 
 推荐使用Goland打开mall项目，找到Terminal(终端)，执行如下命令。
 ```
-$ cd mall
-
 $ cd server
 $ go generate
 $ go build -o server main.go (windows编译命令为 go build -o server.exe main.go )
