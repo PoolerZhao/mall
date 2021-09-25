@@ -52,7 +52,7 @@ git clone https://github.com/zchengo/mall.git
 $ cd mall
 
 $ cd server
-$ go mod download
+$ go generate
 $ go run ./main.go
 
 $ cd web
