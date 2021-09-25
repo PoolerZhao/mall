@@ -40,7 +40,7 @@ git clone https://github.com/zchengo/mall.git
 ```
 **相关资源文件：**
 
-数据库文件在 /demo/sql 目录中，推荐使用 Navicat 来运行SQL文件。图片文件也在 /demo/image 目录中，请在自己的电脑中新建一个目录，用于存放这些图片。
+数据库文件在 /demo/sql 目录中，推荐使用 Navicat 来运行SQL文件。图片文件在 /demo/image 目录中，请在自己的电脑中新建一个目录，用于存放这些图片。
 
 **修改配置文件：**
 
