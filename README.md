@@ -21,16 +21,17 @@ mall 是一个基于 golang、 gin、 gorm、 vue3、element plus 开发的商�
 | Gin | Web框架 | https://gin-gonic.com |
 | Gorm | ORM框架 | https://gorm.io |
 | Jwt | 用户认证 | https://github.com/golang-jwt/jwt |
+| Captcha | 验证码生成器 | https://github.com/mojocn/base64Captcha |
 | Viper | 配置管理 | https://github.com/spf13/viper |
 
 ### 运行环境
 
 | 环境 | 版本 |
 |---|---|
-| Go | 1.17.1 |
-| MySQL | 8.0.16 |
-| Node.js | 14.13.1 |
-| Npm | 6.14.8 |
+| go | 1.17.1 |
+| mysql | 8.0.16 |
+| node.js | 14.13.1 |
+| npm | 6.14.8 |
 
 ### 安装与启动
 
@@ -51,7 +52,7 @@ git clone https://github.com/zchengo/mall.git
 $ cd mall
 
 $ cd server
-$ go mod install
+$ go mod download
 $ go run ./main.go
 
 $ cd web
