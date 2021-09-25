@@ -48,16 +48,21 @@ git clone https://github.com/zchengo/mall.git
 配置文件位于 /server/config.yaml，请按实际情况进行修改
 
 **初始化并运行：**
+
+推荐使用Goland打开mall项目，找到Terminal(终端)，执行如下命令。
 ```
 $ cd mall
 
 $ cd server
 $ go generate
-$ go run ./main.go
+$ go build -o server main.go (windows编译命令为 go build -o server.exe main.go )
+
+# 运行二进制
+$ ./server (windows运行命令为 server.exe)
 
 $ cd web
 $ npm install
-$ vue-cli-service serve
+$ npm run serve
 ```
 
 **使用浏览器访问：** 
