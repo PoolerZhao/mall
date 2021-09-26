@@ -73,9 +73,13 @@ $ npm run serve
 
 ![运行结果](https://github.com/zchengo/mall/blob/main/demo/result/demo.png?raw=true)
 
+### 使用说明
+
+本商城系统使用MIT开源许可证，完全免费，请放心使用。
+
 ### 问题反馈
 
-在使用过程中遇到问题，请在评论区反馈！
+本项目持续更新、优化，在使用过程中遇到问题，请在评论区反馈！
 
 
 
