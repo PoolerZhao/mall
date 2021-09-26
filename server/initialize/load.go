@@ -12,7 +12,7 @@ func LoadConfig() {
 	viper.SetConfigName("config")
 	viper.SetConfigType("yaml")
 	if err := viper.ReadInConfig(); err != nil {
-		panic(fmt.Errorf("Fatal error resources file: %w \n", err))长度
+		panic(fmt.Errorf("Fatal error resources file: %w \n", err))
 	}
 	if err := viper.Unmarshal(&global.Config); err != nil {
 		panic(fmt.Errorf("unable to decode into struct %w \n", err))

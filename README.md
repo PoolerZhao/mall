@@ -69,6 +69,10 @@ $ npm run serve
 
 用户名: admin 密码: 123
 
+登录后，可以看到商城首页：
+
+![运行结果](https://github.com/zchengo/mall/blob/main/demo/result/demo.png?raw=true)
+
 ### 问题反馈
 
 在使用过程中遇到问题，请在评论区反馈！
